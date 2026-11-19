@@ -1,5 +1,5 @@
 {
-    "version":  "0.2.1",
-    "message":  "옷장에 가장 영향을 준 아이콘이 보여요",
+    "version":  "0.2.2",
+    "message":  "새 옷이 나올 때 등급 띠가 잘려 보이던 문제 수정",
     "page":  "https://dosuha.itch.io/nue"
 }
