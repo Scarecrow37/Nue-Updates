@@ -1,5 +1,5 @@
 {
-    "version":  "0.3.1",
-    "message":  "옷 등급이 계통 점수 확률로, 슈퍼 잡종 추가",
+    "version":  "0.4.0",
+    "message":  "실크와 상점(옷 판매·품종 알·바구니·물들인 뽕잎), 먹힌 아이콘 성능·표시 개선",
     "page":  "https://dosuha.itch.io/nue"
 }
