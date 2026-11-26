@@ -1,5 +1,11 @@
 {
-    "version":  "0.4.0",
-    "message":  "실크와 상점(옷 판매·품종 알·바구니·물들인 뽕잎), 먹힌 아이콘 성능·표시 개선",
-    "page":  "https://dosuha.itch.io/nue"
+    "version":  "1.0.0",
+    "message":  "첫 공개 출시! 영어·일본어·중국어도 지원해요",
+    "page":  "https://dosuha.itch.io/nue",
+    "messages":  {
+                     "en":  "First public release, now in English, Japanese and Chinese",
+                     "ja":  "初の一般公開！日本語・英語・中国語に対応しました",
+                     "zh-Hans":  "首次公开发布！现已支持中文、英文和日文",
+                     "zh-Hant":  "首次公開發布！現已支援中文、英文和日文"
+                 }
 }
