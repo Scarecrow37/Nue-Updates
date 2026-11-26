@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.2",
-    "message":  "게임·영화를 볼 때 누에가 쉬어요",
+    "version":  "1.0.3",
+    "message":  "처음 시작하는 안내와 첫 씨알 보관함이 생겼어요",
     "page":  "https://dosuha.itch.io/nue",
     "messages":  {
-                     "en":  "Nue now rests while you play games or watch videos",
-                     "ja":  "ゲームや動画の間、カイコが休むようになりました",
-                     "zh-Hans":  "玩游戏或看视频时，蚕宝宝会休息了",
-                     "zh-Hant":  "玩遊戲或看影片時，蠶寶寶會休息了"
+                     "en":  "New: a first-run guide and your first egg basket",
+                     "ja":  "はじめての案内と、最初のたまごかごが加わりました",
+                     "zh-Hans":  "新增新手引导和第一个蚕卵篮",
+                     "zh-Hant":  "新增新手引導和第一個蠶卵籃"
                  }
 }
