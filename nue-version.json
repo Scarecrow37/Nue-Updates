@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.1",
-    "message":  "작은 문제 몇 가지를 고쳤어요",
+    "version":  "1.0.2",
+    "message":  "게임·영화를 볼 때 누에가 쉬어요",
     "page":  "https://dosuha.itch.io/nue",
     "messages":  {
-                     "en":  "A few small fixes",
-                     "ja":  "いくつかの小さな問題を直しました",
-                     "zh-Hans":  "修复了几个小问题",
-                     "zh-Hant":  "修正了幾個小問題"
+                     "en":  "Nue now rests while you play games or watch videos",
+                     "ja":  "ゲームや動画の間、カイコが休むようになりました",
+                     "zh-Hans":  "玩游戏或看视频时，蚕宝宝会休息了",
+                     "zh-Hant":  "玩遊戲或看影片時，蠶寶寶會休息了"
                  }
 }
