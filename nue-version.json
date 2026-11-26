@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.0",
-    "message":  "첫 공개 출시! 영어·일본어·중국어도 지원해요",
+    "version":  "1.0.1",
+    "message":  "작은 문제 몇 가지를 고쳤어요",
     "page":  "https://dosuha.itch.io/nue",
     "messages":  {
-                     "en":  "First public release, now in English, Japanese and Chinese",
-                     "ja":  "初の一般公開！日本語・英語・中国語に対応しました",
-                     "zh-Hans":  "首次公开发布！现已支持中文、英文和日文",
-                     "zh-Hant":  "首次公開發布！現已支援中文、英文和日文"
+                     "en":  "A few small fixes",
+                     "ja":  "いくつかの小さな問題を直しました",
+                     "zh-Hans":  "修复了几个小问题",
+                     "zh-Hant":  "修正了幾個小問題"
                  }
 }
