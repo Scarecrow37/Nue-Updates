@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.3",
-    "message":  "처음 시작하는 안내와 첫 씨알 보관함이 생겼어요",
+    "version":  "1.1.0",
+    "message":  "업적과 이용권·칭호, 움직이는 배경용 꽃 자수 덮개가 생겼어요",
     "page":  "https://dosuha.itch.io/nue",
     "messages":  {
-                     "en":  "New: a first-run guide and your first egg basket",
-                     "ja":  "はじめての案内と、最初のたまごかごが加わりました",
-                     "zh-Hans":  "新增新手引导和第一个蚕卵篮",
-                     "zh-Hant":  "新增新手引導和第一個蠶卵籃"
+                     "en":  "New: achievements with tickets and titles, plus flower embroidery for live wallpapers",
+                     "ja":  "実績と券・称号、動く壁紙用の花の刺しゅうが加わりました",
+                     "zh-Hans":  "新增成就、券和称号，以及动态壁纸用的花朵刺绣遮盖",
+                     "zh-Hant":  "新增成就、票券和稱號，以及動態桌布用的花朵刺繡遮蓋"
                  }
 }
